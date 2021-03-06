@@ -1,5 +1,5 @@
 
-% fourierdemo2.m
+% fourierdemo.m
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Note that this code is written for transparency, not speed.
