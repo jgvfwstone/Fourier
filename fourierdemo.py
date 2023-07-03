@@ -167,7 +167,8 @@ plt.title("Amplitude spectrum",fontsize=fs)
 plt.plot(freqs,As)
 plt.xlabel("Frequency (Hz)",fontsize=fs)
 plt.ylabel("Amplitude",fontsize=fs)
-     
+plt.show()
+
 print('\nNumber of frequencies = ',nfrequencies)
 print('\nFourier program completed.') 
 ############### 
